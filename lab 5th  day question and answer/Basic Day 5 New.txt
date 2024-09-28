@@ -1,0 +1,62 @@
+Program:1
+Calculate simple interest
+Description:
+Create a program that takes the principal amount, interest rate, and time in years from the user and calculates the simple interest. Print the result with appropriate messages.
+Constraints:
+SampleInput:
+principal amount: 4000
+
+
+
+interest rate (in percentage): 5
+
+
+
+time in years: 3
+SampleOutput:
+Simple Interest is: 600.00
+Explanation:
+By using the formula.
+
+==========================================
+
+2)Program:
+Find Even or Odd
+Description:
+Write a C program to find the given number is even or odd. Take the input from the console by using scanf().
+Constraints:
+SampleInput:
+Enter a number : 12
+
+Enter a number : 13
+
+SampleOutput:
+12 is an Even number.
+
+13 is an Odd number.
+Explanation:
+Don't use any control flow statement or ternary operator.
+
+=============================================================
+
+3)Program:
+Split the Bill
+Description:
+Write a program that takes the total bill amount and the number of people from the user. Calculate and print the amount each person needs to pay, assuming an equal split of the bill.
+Constraints:
+SampleInput:
+Input :
+
+-------
+
+total bill( in float) ->1200.00
+
+number of people(in int)-> 5
+SampleOutput:
+Output :
+
+--------
+
+amount each person needs to pay ->240
+Explanation:
+Note : you have to print the msg as it is shown in the example.

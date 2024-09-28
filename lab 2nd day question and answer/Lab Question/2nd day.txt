@@ -1,0 +1,38 @@
+1.write a 'c' program to find previous multiple of 10 of given two-digit number only.
+sample input a=26
+output 20
+
+2.write a 'c' program to find next multiple of 10 of given 2 digit number only.
+sample input a=34
+output 40
+
+3.without using control statements Write a c program to determine the next or previous multiple of 10 for a given two-digit number.
+
+req:
+     if the last digit of the given number is greater than or equal to 5 , the programme should print the next multiple of 10.
+ 
+     if the last digit of the given number is less than 5 the program should print the previous multiple of 10.
+
+
+sample input : int a = 34;
+sample output : 30
+
+sample input : int a = 25;
+sample output : 30
+
+sample input : int a = 86
+sample output : 90
+
+4. Write a 'c' program to check and print that the given number is Even or Odd without using ternary operator and control statement.
+......
+
+sample input : int a = 10
+sample output : Even
+
+sample input : int a = 15
+sample output : Odd
+
+5. write a 'c' program to find maximum number among two numbers without using ternary operator and control statement.
+
+sample input : int a = 10 , b= 20
+sample output :max =  20

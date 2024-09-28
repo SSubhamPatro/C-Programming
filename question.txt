@@ -1,0 +1,164 @@
+q.Set B [ Program 3 ] Point 5
+Write a C program to calculate the sum of natural numbers from 1 to a given positive integer without using loops and control flow statement
+
+Input as :
+Enter a positive integer: 10
+Expected output:
+The sum of natural numbers from 1 to 10 is: 55
+Sample Input
+10
+Sample Output
+The sum of natural numbers from 1 to 10 is: 55.
+
+
+
+q.Set C [ Program 3 ] Point 5
+write a c program that find number is positive or negative or zero without using  control flow statement.
+
+input : -1
+output :- Negative
+
+input : 0
+output : Zero
+Sample Input
+8
+Sample Output
+
+
+
+q.Set A [ Program 3 ] Point 5
+Write a program to find even or odd without using control flow statemant
+
+Sample Input:-Enter a Number:8
+output:-8 is even number
+
+Sample Input:-Enter a Number:7
+output:-7 is odd number
+Sample Input
+7
+Sample Output
+7 is odd number
+
+
+q.Set B [ Program 2 ] Point 5
+Write a  c Program to find the smallest number among three numbers without using loops and control flow statement
+Case:- 1
+input :- 350 600 455
+output:- 350
+Case:- 2
+input :- 87 20 34
+output:- 20
+Sample Input
+350
+ 600
+ 455
+Sample Output
+350
+
+
+q.Set B [ Program 2 ] Point 5
+Write a  c Program to find the smallest number among three numbers without using loops and control flow statement
+Case:- 1
+input :- 350 600 455
+output:- 350
+Case:- 2
+input :- 87 20 34
+output:- 20
+Sample Input
+350
+ 600
+ 455
+Sample Output
+350
+
+
+q.Set A [ Program 3 ] Point 5
+Write a program to find even or odd without using control flow statemant
+
+Sample Input:-Enter a Number:8
+output:-8 is even number
+
+Sample Input:-Enter a Number:7
+output:-7 is odd number
+Sample Input
+7
+Sample Output
+7 is odd number
+
+
+q.Set B [ Program 2 ] Point 5
+Write a  c Program to find the smallest number among three numbers without using loops and control flow statement
+Case:- 1
+input :- 350 600 455
+output:- 350
+Case:- 2
+input :- 87 20 34
+output:- 20
+Sample Input
+350
+ 600
+ 455
+Sample Output
+350
+
+
+q.Set A [ Program 2 ] Point 5
+Write a program to reverse a four digit number
+
+Sample Input:-Enter a 4 digit number:4879
+output-reverse of 4 digit number=9784
+Sample Input
+4879
+Sample Output
+9784
+
+
+q.Set C [ Program 2 ] Point 5
+Write a c program that find next multiple of 100.
+num = 121
+output : 200
+Sample Input
+121
+Sample Output
+200
+
+
+q.Set B [ Program 1 ] Point 5
+Write a C program to swap first and last digit of a given four digit number .Take the input from the user.
+
+Input as :
+enter a four digit number :
+9856
+Output as :
+The result is : 6859
+Sample Input
+9856
+Sample Output
+The result is : 6859
+
+
+
+q.Set C [ Program 1 ] Point 5
+write a C program that checks if a person is eligible for voting or not  based on their age without using  control flow statement.
+
+ if age is : 12
+output : You are not eligible for voting 
+
+ if age is : 21
+output : You are  eligible for voting
+Sample Input
+21
+Sample Output
+You are  eligible for voting
+
+
+q.Set A [ Program 1 ] Point 5
+Write a program to convert from uppercase Character to LowerCase Character
+
+Sample Input:-
+Enter a Uppercase Character:H
+Output-Lowercase Character:h
+Sample Input
+H
+Sample Output
+h

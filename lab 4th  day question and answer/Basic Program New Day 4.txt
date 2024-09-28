@@ -1,0 +1,78 @@
+1)
+Program:
+Sum of Natural Number
+Description:
+Write a C program to calculate the sum of natural numbers from 1 to a given positive integer by the user,take the input from the user by using scanf(). 
+Constraints:
+SampleInput:
+Input as :
+
+Enter a positive integer: 10
+SampleOutput:
+Expected output:
+
+The sum of natural numbers from 1 to 10 is: 55
+Explanation:
+Develop it without using loops.
+
+=========================================================
+
+2)Program:
+Convert Centimeter to Inches
+Description:
+Write a program that takes input from the user, take some input for centimeter and convert that into inches .
+Constraints:
+SampleInput:
+1 
+SampleOutput:
+0.3937
+Explanation:
+By using the formula.
+
+==================================================
+3)Program:
+ASCII Sum
+Description:
+Write a C program to take two character input from the user and print the ASCII value of that two character and display its sum.
+Constraints:
+SampleInput:
+Enter a character: a b
+
+SampleOutput:
+ASCII value of a is : 97
+
+ASCII value of b is : 98
+
+ASCII sum of a & b is : 195
+Explanation:
+Not Required
+
+============================================
+4)Program:
+Convert days in Y-M-D
+Description:
+Write a program in C to input number of days. Find and display number of years, weeks, months and days.
+Constraints:
+SampleInput:
+Input as : 390
+SampleOutput:
+Output as : 1 Year, 3 Weeks, 0 Month, 4 Days
+Explanation:
+By using the operator.
+
+================================================
+5)Program:
+Area of Different Shape
+Description:
+Write a C program that takes 2 number as input and store that number in a variable, First input for radius of a Circle and 2nd input for side of a Square.
+Constraints:
+SampleInput:
+Enter radius of Circle : 12
+
+Enter side of Square : 5
+SampleOutput:
+Area of Circle is : 452.16
+
+Area of Square is : 25
+Explanation:
+calculate the area of Circle and Square by using the formula.

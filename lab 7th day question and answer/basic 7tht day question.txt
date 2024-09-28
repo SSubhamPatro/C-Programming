@@ -1,0 +1,169 @@
+2.Assignment Operators
+read 2 numbers(a,b) from user using scanf and perform below operations and print output.
+
+
+
+Assignment Operators
+
+
+
+1) a += b
+
+2) a -= b
+
+3) a *= b
+
+4) a /= b
+
+5) a %= b
+Sample Input
+a=10 and b=5 
+Sample Output
+a += b: 15
+
+a -= b: 10
+
+a *= b: 50
+
+a /= b: 10
+
+a %= b: 0
+
+3.takes details of an employee from the user
+Write a program that takes details of an employee from the user, including name, employee ID, designation, and salary. Then, print the details of the employee.
+Sample Input
+Enter employee name: rohit
+
+Enter employee ID: 101
+
+Enter employee designation: development 
+
+Enter employee salary: 25000
+Sample Output
+Employee Details
+
+Name: rohit
+
+Employee ID: 101
+
+Designation: development
+
+Salary: $25000.00
+
+3.Logical Operators
+read 2 numbers(a,b) from user using scanf and perform below operations and print output.
+
+
+
+Logical Operators
+
+1) a && b
+
+2) a || b
+
+3) !a
+
+4) !b
+
+Sample Input
+ a=1, b=0
+Sample Output
+a && b = 0
+
+a || b = 1
+
+!a = 0
+
+!b = 1
+
+4.Bitwise Operators
+ead 2 numbers(a,b) from user using scanf and perform below operations and print output.
+
+
+
+
+
+Bitwise Operators
+
+
+
+1) a & b
+
+2) a | b
+
+3) a ^ b
+
+4) ~a 
+
+5) a << 1
+
+6) a >> 1
+
+Sample Input
+ a=5 and b=9
+Sample Output
+a & b = 1
+
+a | b = 13
+
+a ^ b = 12
+
+~a = 4294967290
+
+a << 1 = 10
+
+a >> 1 = 2
+
+5.Operation Using Scanf Function
+ Write a C program that takes two integers and operator (+,-,*,/) as input from the user using scanf and perforom calculates their sum, substraction, multiplication, and division.
+Sample Input
+Enter 1st number 
+
+20
+
+Enter 2nd number
+
+10
+
+Enter operator (+,-,/,*)
+
++
+Sample Output
+addition = 30
+
+6.Relational Operators
+read 2 numbers(x,y) from user using scanf and perform below operations and print output.
+
+
+
+Relational Operators
+
+1) x==y
+
+2) x!=y
+
+3) x>y
+
+4) x<y
+
+5) x>=y
+
+6) x<=y
+
+Sample Input
+ix=5 and y=8 
+Sample Output
+x == y = 0
+
+x != y = 1
+
+x > y = 0
+
+x < y = 1
+
+x >= y = 0
+
+x <= y = 1
+
+
+
